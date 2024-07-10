@@ -332,3 +332,27 @@ border-radius: 8px;
   border: none;
   border-radius: 8px;
 }
+
+
+
+/* footer section styles */
+
+#footer{
+  height: 100px;
+  width: 100%;
+  background: rgba(13, 19, 33, 0.03);  
+
+
+}
+.footer-container{
+  margin-left: 150px;
+  margin-right: 150px;
+  padding:35px;
+  display: flex;
+  flex-direction: row;
+ justify-content: space-between;
+ align-items: center;
+}
+.footer-container a{
+  text-decoration: none;
+}
