@@ -34,6 +34,7 @@ nav {
   height: 58px;
   padding: 17px 24px;
   background: white;
+  cursor: pointer;
 }
 
 /* banner section styles starts here */
@@ -75,12 +76,13 @@ nav {
   padding: 21px 24px;
   background: rgb(13, 19, 33);
   margin-top: 32px;
+  cursor: pointer;
+  color: white;
 }
 
 /* button styles */
-.contact-btn a {
+.banner-container a {
   text-decoration: none;
-  color: white;
 }
 
 /* Card section styles starts here */
@@ -154,6 +156,7 @@ nav {
   font-size: 20px;
   font-weight: 600;
   margin-top: 32px;
+  cursor: pointer;
 }
 
 .card-content{
@@ -435,6 +438,7 @@ border-radius: 8px;
   background: white;
   border: none;
   border-radius: 8px;
+  cursor: pointer;
 }
 
 
